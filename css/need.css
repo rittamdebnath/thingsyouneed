@@ -86,7 +86,7 @@ section.word .block .slot h1 {
   font-weight: 300;
 }
 /* line 46, ../scss/need.scss */
-section.word .block .slot p {
+section.word .block .slot {
   margin-left: 60px;
   font-size: 20px;
 }
