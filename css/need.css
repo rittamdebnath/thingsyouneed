@@ -90,9 +90,7 @@ section.word .block .slot {
   margin-left: 20px;
   font-size: 20px;
 }
-.green{
-  color:#8cc152;
-}
+
 /* line 50, ../scss/need.scss */
 section.word .block .slot ol {
   list-style-type: none;
