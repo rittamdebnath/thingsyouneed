@@ -99,6 +99,15 @@ section.word .block .slot ol {
   margin-left: 60px;
 }
 
+
+@media (max-width:500px){
+  section.word .block .slot{
+    margin-left:2px;
+  }
+  section.word .block .slot ol{
+    margin-left:2px;
+  }
+}
 /* line 59, ../scss/need.scss */
 footer {
   background: #3498db;
